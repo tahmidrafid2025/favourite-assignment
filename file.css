@@ -5,3 +5,16 @@
   font-weight: <weight>;
   font-style: normal;
 }
+
+.tumi:hover{
+
+
+  transform: scale(1.2);
+}
+
+
+.backimage{
+
+  background-image:url(Assets/Hero-bg.png);
+  height: 500px;
+}
